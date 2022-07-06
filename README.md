@@ -7,7 +7,7 @@ Then register with [QIWI.api](https://qiwi.com/api). And you need to generate a 
 
 You need to copy your ID in the telegram. To find out the ID, you need to go to any telegram chat and write `@my_id_bot`.
 
-For example: My Telegram ID is 237672552
+For example: My Telegram ID is `237672552`
 
 Then you need to edit the file with the name **config.py**.
 
